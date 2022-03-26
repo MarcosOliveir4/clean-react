@@ -6,5 +6,8 @@
   "repository": "git@github.com:MarcosOliveir4/clean-react.git",
   "author": "MarcosOliveir4 <marcosassis071@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.1"
+  }
 }
